@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>My Personal Site</title>
+    <link rel="stylesheet" href="CSS/mystyle.css">
+    <link rel="icon" href="INPUT ICON IMAGE">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Caveat&family=Merriweather&family=Montserrat:ital@1&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <div class="first-container">
+      <img src="INPUT BODY IMAGE">
+      <h1>My Name is Adeyemi Daniel Adeominira.Matric number 2019/8327</h1>
+      <h2 class="changed">A terrible <span>web</span> developer</h2>
+      <img src="INPUT YOUR SITE IMAGE" alt="INPUT YOUR SITE IMAGE">
+      <img src="INPUT YOUR SITE IMAGE" alt="INPUT YOUR SITE IMAGE" class="image3">
+    </div>
+
+
+    <div class="second-container">
+  <div class="profile">
+    <img class="profilepic"src="INPUT YOUR PROFILE IMAGE" alt="profile pic">
+    <h2>Hello.</h2>
+    <p> I am a student of Bells University of technology.
+      <br> All i want from bells university is to get my degree and get the fuck out because the school is very stressfull and unhealty.
+so i just want to get my Bsc in Eletrical and Eletronic Engineering and disapper </p>
+  </div>
+  <hr class="middle1">
+  <div class="skills">
+    <h2>My Skills.</h2>
+    <div class="skill-row">
+      <img class="skill-img1" src="INPUT SKILL IMAGE" alt="">
+      <h3>Web Development</h3>
+      <p>i am have skills when when playing football,table tennis and basketball,get stucked on my computer system when it comes to movies and video games .</p>
+    </div>
+    <div class="skill-row">
+      <img class="skill-img2" src="YOUR SITE IMAGE" alt="">
+      <h3>What i am good with</h3>
+      <p>programming ,
+Rewinding ,
+Conntecions ( Eletrical and eletronics).</p>
+    </div>
+  </div>
+  <hr class="middle2">
+  <div class="contact-me">
+    <h2>get to know me better</h2>
+    <h3>If you know how to play guitar  😝</h3>
+    <p>And also love to hang out ,just contact me </p>
+    <button><a class="btn" href="mailto:Adeyemid132@gmail.com">CONTACT ME</a></button>
+  </div>
+</div>
+
+
+<div class="last-container">
+  <a class="footer-link" href="https://www.facebook.com/">Facebook - Adeyemi Daniel</a>
+  <a class="footer-link" href="https://twitter.com/">Twitter - Dani-k</a>
+  <p>© 2020 Adeyemi Daniel</p>
+</div>
+
+  </body>
+</html>
